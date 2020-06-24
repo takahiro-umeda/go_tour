@@ -1,0 +1,6 @@
+- `GOPATH`と`GoModule`について。GOPATH使いにくいからGoModuleへ
+  - [GOPATHの問題](https://qiita.com/propella/items/e49bccc88f3cc2407745)
+  - `GOPATH`を設定すると`${GOPATH}/src`にしかプロジェクトおけない
+- `GoModule`のドキュメント見ながら入れてみる
+  - [ドキュメント](https://github.com/golang/go/wiki/Modules#example)
+  - 
